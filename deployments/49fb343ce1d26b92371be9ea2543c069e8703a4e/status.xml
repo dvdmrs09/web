@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>49fb343ce1d26b92371be9ea2543c069e8703a4e</id>
+  <author>kazuyaonuki-MSFT</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>93357408+KazuOnuki@users.noreply.github.com</authorEmail>
+  <message>Set `EMBEDDING_MODEL_KEY` at cosmos_mongo_vcore_data_preparation.py (#586)</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2024-02-13T00:00:58.9248226Z</lastSuccessEndTime>
+  <receivedTime>2024-02-13T00:00:26.705279Z</receivedTime>
+  <startTime>2024-02-13T00:00:28.0292848Z</startTime>
+  <endTime>2024-02-13T00:00:58.9248226Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+  <buildSummary />
+</deployment>
